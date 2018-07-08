@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ## Solved
 
 * CartPole-v1 - [About](https://gym.openai.com/envs/CartPole-v1/)
-    * Solved with Deep Reinforcement Learning (DQN) - [Code](sample/CartPole)
+    * Solved with Deep Reinforcement Learning (DQN) - [Code](sample/CartPole.py)
 
 ## License
 
