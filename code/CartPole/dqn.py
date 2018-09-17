@@ -1,10 +1,11 @@
 """Solving CartPole-v1 with Deep Reinforcement Learning (DQN)"""
 import os
-import numpy as np
 import random
 import time
+
 import gym
 import keras
+import numpy as np
 from keras.models import Sequential, load_model
 from keras.layers import Dense, Dropout, Activation
 
