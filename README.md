@@ -1,6 +1,6 @@
 # Solving OpenAI Gym
 
-Solving [OpenAI Gym](https://gym.openai.com/) with deep learning
+Solving [OpenAI Gym](https://gym.openai.com/)
 
 
 ## Solved
